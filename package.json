@@ -1,0 +1,12 @@
+{
+  "name": "i18n-watch",
+  "version": "0.0.1",
+  "description": "i18n tracer for multiple projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jin Xiao",
+  "license": "ISC",
+  "bin": "./bin/i18n-watch.js"
+}
