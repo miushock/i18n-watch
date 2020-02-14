@@ -8,5 +8,10 @@
   },
   "author": "Jin Xiao",
   "license": "ISC",
-  "bin": "./bin/i18n-watch.js"
+  "bin": "./bin/i18n-watch.js",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "nodegit": "^0.26.4",
+    "shelljs": "^0.8.3"
+  }
 }
