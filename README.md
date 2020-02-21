@@ -14,7 +14,7 @@ mkdir [dir] && cd [dir]
 
 #### 初始化项目
 ```shell script
-i18n-watch init token=[github_access_token] user_uame=[github_user_name] user_email=[github_user_email]
+i18n-watch init --token=[github_access_token] --user_name=[github_user_name] --email=[github_user_email]
 ```
 
 #### 添加追踪项目
