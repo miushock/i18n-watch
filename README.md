@@ -19,7 +19,7 @@ i18n-watch init --token=[github_access_token] --user_name=[github_user_name] --e
 
 #### 添加追踪项目
 ```shell script
-i18n-watch track [repo_url]
+i18n-watch track [repo_url] --i18n_path=[i18n_path] --branch=[checkout_branch]
 ```
 
 #### 移除追踪项目
