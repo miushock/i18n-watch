@@ -12,6 +12,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "nodegit": "^0.26.4",
+    "ora": "^4.0.3",
     "shelljs": "^0.8.3"
   }
 }
