@@ -29,5 +29,5 @@ i18n-watch untrack [repo_url]
 
 #### 远程同步项目
 ```shell script
-i18n-watch sync [repo_url]
+i18n-watch sync [repo_dir]
 ```
