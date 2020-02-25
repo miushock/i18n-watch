@@ -4,7 +4,7 @@
 
 #### 全局安装
 ```shell script
-npm install -g i18n-watch
+npm install -g @freelog/i18n-watch
 ```
 
 #### 新建工作目录 并进入
