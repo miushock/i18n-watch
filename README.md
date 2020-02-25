@@ -24,10 +24,10 @@ i18n-watch track [repo_url] --i18n_path=[i18n_path] --branch=[checkout_branch]
 
 #### 移除追踪项目
 ```shell script
-i18n-watch untrack [repo_dir]
+i18n-watch untrack [dir]
 ```
 
 #### 远程同步项目
 ```shell script
-i18n-watch sync [repo_dir]
+i18n-watch sync [dir]
 ```
