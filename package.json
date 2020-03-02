@@ -1,17 +1,26 @@
 {
-  "name": "i18n-watch",
-  "version": "0.0.1",
+  "name": "@freelog/i18n-watch",
+  "version": "0.0.5",
   "description": "i18n tracer for multiple projects",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jin Xiao",
   "license": "ISC",
-  "bin": "./bin/i18n-watch.js",
+  "bin": {
+    "i18n-watch": "./bin/i18n-watch.js"
+  },
   "dependencies": {
     "fs-extra": "^8.1.0",
     "nodegit": "^0.26.4",
+    "ora": "^4.0.3",
     "shelljs": "^0.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:freelogfe/i18n-watch.git"
+  },
+  "engines": {
+    "node": ">=8.9"
   }
 }
